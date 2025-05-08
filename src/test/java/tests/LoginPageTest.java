@@ -18,7 +18,7 @@ public class LoginPageTest extends BasePage{
 	public Object[][] getData(){
 		return new Object[][] {
 			{"test_vikas1@gmail.com", "test@123"}, // Invalid email, correct password
-//			{"test_vikas@gmail.com", "test123"} // Correct email, Invalid password
+			{"test_vikas@gmail.com", "test123"} // Correct email, Invalid password
 		};
 	}
 	
