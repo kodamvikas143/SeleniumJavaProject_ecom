@@ -19,7 +19,6 @@
 		<parameter name="messageText" value="Test Message" />
 		<parameter name="input_email" value="test_vika12@gmail.com" />
 		<parameter name="input_password" value="test@1384" />
-		
 		<classes>
 			
 			<class name="tests.signupTest" />
